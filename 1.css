@@ -1,0 +1,36 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-size: 35px;
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1{
+    font-size: 72px;
+    letter-spacing: 15px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: rgb(66, 17, 17);
+}
+#top-menu{
+    width: 300px;
+    margin: 0 auto;
+}
+#left, #right{
+    display: inline-block;  
+    width: 40vw;
+  
+}
+img{
+    width: 30vw;
+    margin-top: 10px;
+    border: 2px solid lightskyblue;
+    border-radius: 55px 5px 40px 0;
+}
+.item{
+    margin: 5vw;
+    border: 4px solid brown;
+    border-radius: 15px;
+}
